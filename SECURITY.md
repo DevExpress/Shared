@@ -13,7 +13,7 @@ If you believe you have found a security vulnerability in any DevExpress-owned r
 
 **Please do not report security vulnerabilities through public GitHub issues.** Instead, submit your report via the DevExpress [Support Center](https://www.devexpress.com/Support/Center/) (where you can create **private** support tickets).
 
-If you do not wish to create a [DevExpress.com](https://www.devexpress.com) account, simply forward your report via email to [securitylab@devexpress.com](mailto:securitylab@devexpress.com).
+If you do not wish to create a [DevExpress.com](https://www.devexpress.com) account, simply forward your report via email to [security@devexpress.com](mailto:security@devexpress.com).
 
 To help us understand the nature and scope of the vulnerability, please include as much information as possible. Answers to the following will help us isolate the issue in the shortest possible timeframe:
 
